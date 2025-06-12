@@ -2,17 +2,17 @@
 
 Design Notes
 
-
+Walls called: 
+Asic Wall,CREPS Wall, External Wall, Corridor Wall
 
 General:
 
 Demo Plan 
-Put felt in diagram
+
 Adjustable Height on Equity and Lecturers benches.
-Lighting Plan
-Same duct all sides TALPlus PL50150DN, maybe powdercoated for colour
 Plan A radiators removed + AC, plan B (maybe) radiators stay.
 remove all existing gpos
+safety kiosk sign goes outside. 
 
 Standard Benches: (2 station back to back)
 Trimmable leg supports for all legs. 
@@ -27,7 +27,7 @@ Need slight redesign of equipment rack to allow for component racks.
 
 
 
-NorthBench:
+Asic Bench:
 Ikea style cubes 300mm(all directions) above bench.
 Switchboard incorportated into cubes. 
 2 high 
@@ -35,18 +35,26 @@ Width 600mm
 8 double gpos
 relocated datapoints to near door.
 ducted power points.
+cupboard doors lockable. 
 
 
 
 Switchboard:
-7 x circuits for standard benches  
-
 2 x circuits for lights
-1 x circuits for north bench
-1 x circuits for TV + security
-1 x 
+7 x circuits for standard benches  
+1 x circuit for north bench
+1 x circuit for TV + security
+1 x circuit for Lecturer+Equity Bench
 
 
+Power-Lighting-Data :
+Move datapoints to centre of Standard benches
+Same duct all sides TALPlus PL50150DN, maybe powdercoated for colour
+Vertical ducts if required near column if possible. 
+Not sure of route to Exteral wall benches
 
 
+todo:
+Draw in diagram
+felt wall , revised cable ducts, cable racks, component drawers.
 
