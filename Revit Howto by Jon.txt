@@ -1,9 +1,13 @@
 Revit Howto
 
-Add change revisions:
-as per google. 
+put any Revit specific howtos here.
 
-Update revisions from project revisions:
+Howto Add change project revisions:
+select floor plan
+view (tab) -> Sheet Composition -> revisions
+ 
+
+Howto Update revisions from project revisions:
 	Go to sheet. 
 	in browers pane select families filter
 	search for Title_Blocks_A1_Metric
